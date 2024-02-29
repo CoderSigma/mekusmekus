@@ -9,7 +9,7 @@
 #### Installation and Usage:
 
 ```
-git clone https://bootst/rap.pypa.io/get-pip.py -o get-pip.py
+git clone https://github.com/CoderSigma/mekusmekus
 ```
 ### Usage:
 ```
