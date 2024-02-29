@@ -13,8 +13,8 @@ os.system('clear')
 fb = "https://facebook.com/CoderSigma"
 tik = "https://www.tiktok.com/@CoderSigma"
 
-TOKEN = "7056387041:AAHzHlgCznx811sOHAmyJZqFUl3AYsCP7Zk"  # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual bot token
-TELEGRAM_CHAT_ID = "5418848749"  # Replace 'YOUR_TELEGRAM_CHAT_ID' with your chat ID
+TOKEN = "123123123123"  # Replace 'YOUR_TELEGRAM_BOT_TOKEN' with your actual bot token
+TELEGRAM_CHAT_ID = "1231231239"  # Replace 'YOUR_TELEGRAM_CHAT_ID' with your chat ID
 
 def send_message(message):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
